@@ -1,2 +1,2 @@
 vm-size = "t2.nano"
-vm-name = "jimmyvm3"
+vm-name = "jimmynewvmfromjenkins"
