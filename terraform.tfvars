@@ -1,3 +1,3 @@
-vm-size = "t2.small"
-vm-name = "jimmyvmday3"
+vm-size = "t3.micro"
+vm-name = "jimmyvm1day3"
 
