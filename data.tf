@@ -3,12 +3,12 @@ id = "vpc-07eede624774fec02"
 }
 
 resource "aws_security_group" "allow_tls" {
-  name        = "allow_tls"
+  name        = "Jimmy_allow_tls"
   description = "Allow TLS inbound traffic and all outbound traffic"
   vpc_id      = data.aws_vpc.jr-example.id
 
   tags = {
-    Name = "allow_tls"
+    Name = "Jimmy_allow_tls"
   }
 }
 
