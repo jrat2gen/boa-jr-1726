@@ -15,3 +15,4 @@ variable "vm-name" {
     default = "jimmy-ami"
   
 }
+
