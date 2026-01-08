@@ -13,6 +13,10 @@ variable "vm-size" {
 variable "vm-name" {
     type = string
     default = "jimmy-ami"
-  
+   
 }
 
+variable "numberofVMs" {
+  type = number
+  description = "this is for number of vm to be created"
+}
